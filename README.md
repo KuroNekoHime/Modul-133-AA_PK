@@ -11,3 +11,5 @@ https://www.lucidchart.com/?utm_source=google&utm_medium=cpc&utm_campaign=lucidc
 
 
 http://wwwdesign.info/demos/php/demo-2/bestellen.php --> shop beispiel
+
+https://www.youtube.com/watch?v=38PqyQc_z9o --> shop tutorial
