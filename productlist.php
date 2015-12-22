@@ -8,7 +8,11 @@ $products = array(
 		'name' => 'Ousama Games Band 1',
 		'price' => 11.90,
 		'category' => 'Manga',
-		'description' => 'Black sneakers. Good for walking or athletic activity'
+		'description' => 'Eines Tages erhalten Nobuaki und seine Klassenkameraden auf ihren Handys eine Nachricht mit dem Absender »Ousama Game«, 
+		darin enthalten ein Auftrag, der innerhalb von 24 Stunden erfüllt werden muss. Ansonsten droht eine Strafe...
+		Anfangs tun die Freunde alles noch als schlechten Scherz ab, doch nach dem ersten Todesfall wird Nobuaki schnell klar: 
+		Das Spiel ist bitterer Ernst'
+		'picture' => '<img src="productpics/ousamagamesband1.jpg" border="0">'
 	),
 	2 => array(
 		'name' => 'Fairy Tail Band 1',
@@ -26,6 +30,7 @@ $products = array(
 		Sie gründet ein Team mit Natsu und Happy, zu dem jedoch zeitweise auch der Eismagier Gray Fullbuster und die Waffenmagierin Elsa Scarlet 
 		gehören. Das Team um Lucy geht zusammen auf Missionen, um Geld zu verdienen, diese werden in der Regel von normalen Menschen aufgegeben 
 		(z.B. Monster jagen), trotzdem kommt es oft zur Bekämpfung von illegalen Gilden, sogenannten dunklen Gilden, und anderen Bösewichten.'
+		'picture' => '<img src="productpics/fairytailband1.jpg" border="0">'
 	),
 	3 => array(
 		'name' => 'Macical Girl of the End Band 1',
@@ -36,6 +41,7 @@ $products = array(
 		Augen nicht trauen und glaubt schon zu träumen, doch dann dringt das Mädchen auch in den Klassenraum ein und hinterlässt ein blutiges 
 		Gemetzel, das nur er und zwei Mitschüler überleben. Obwohl Kii dem Grusel-Girl den Schädel einschlägt, erwacht sie wieder zum Leben – 
 		und auch seine gemetzelten Mitschüler werden zu Zombies, die es auf Kii und seine Freunde abgesehen haben'
+		'picture' => '<img src="productpics/macicalgirloftheendband1.jpg" border="0">'
 	),
 	4 => array(
 		'name' => 'Naruto Band 1',
@@ -46,20 +52,27 @@ $products = array(
 		Der Nudelsuppe und nervtötende Streiche liebende Naruto besucht die Ninja-Schule seines Dorfes und ist dadurch nicht gerade beliebt, 
 		doch eigentlich will er der beste Ninja werden. Zusammen mit seinen Mitschülern Sasuke und Sakura muss er eine Reihe von Prüfungen bestehen.
 		Als er dann endlich Ninja ist, fangen die Schwierigkeiten erst an'
+		'picture' => '<img src="productpics/narutoband1.jpg" border="0">'
 	),
 	5 => array(
 		'name' => 'One Piece Band 1',
 		'price' => 12.90,
 		'category' => 'Manga',
-		'description' => 'The latest smartphone from Samsung. Features mind reading to know what you\'re thinking before you think it,
-			and send this information to advertisers to display relevant content of interest to you! Also new is a 3D holoraphic display with
-			motion control, so you can interact with virtual objects in real space.'
+		'description' => 'Schon als kleiner Junge war Monkey D. Ruffy begeistert von Shanks und seiner Piratenbande und wollte deshalb auch
+		Pirat werden. Als Ruffy versehentlich eine Teufelsfrucht isst bekommt er durch diese übermenschliche Kräfte und wird zum Gummimenschen, 
+		verliert dafür aber die Fähigkeit zu schwimmen. Dies hält ihn allerdings nicht davon ab sich auf den Weg zu machen um 
+		Piratenkönig zu werden. '
+		'picture' => '<img src="productpics/onepieceband1.jpg" border="0">'
 	),
 	6 => array(
 		'name' => 'One Piece Vol. 1',
-		'price' => 12.90,
+		'price' => 70.00,
 		'category' => 'Anime',
-		'description' => 'Ruffy ist ein Pirat welcher schon von anfang an das Ziel hatte Piratenkönig zu werden. '
+		'description' => 'Schon als kleiner Junge war Monkey D. Ruffy begeistert von Shanks und seiner Piratenbande und wollte deshalb auch
+		Pirat werden. Als Ruffy versehentlich eine Teufelsfrucht isst bekommt er durch diese übermenschliche Kräfte und wird zum Gummimenschen, 
+		verliert dafür aber die Fähigkeit zu schwimmen. Dies hält ihn allerdings nicht davon ab sich auf den Weg zu machen um 
+		Piratenkönig zu werden. '
+		'picture' => '<img src="productpics/onepiecevol1.jpg" border="0">'
 	),
 	7 => array(
 		'name' => 'One Piece The Movie',
@@ -72,61 +85,77 @@ $products = array(
 		Navigatorin, hat noch von einem anderen Schatz gehört. In den Weiten des East Blue soll sich der legendäre Schatz des Goldpiraten Woonan 
 		befinden. Piraten aus allen Ecken der Grand Line suchen begierig nach diesem Schatz. Schon bald kommt der ebenso grausame wie geistig 
 		langsame Eldorago mit seiner Crew der Flying Lamb in die Quere.'
+		'picture' => '<img src="productpics/onepicethemovie.jpg" border="0">'
 	),
-	),
-	7 => array(
+	8 => array(
 		'name' => 'Death Note Vol. 1',
 		'price' => 45.50,
 		'category' => 'Anime',
-		'description' => 'The latest smartphone from Samsung. Features mind reading to know what you\'re thinking before you think it,
-			and send this information to advertisers to display relevant content of interest to you! Also new is a 3D holoraphic display with
-			motion control, so you can interact with virtual objects in real space.'
+		'description' => 'Der Schüler Light Yagami findet ein geheimisvolles Notizbuch, dass Death Note. Mit diesem ist er in der Lage jeden Menschen
+		dessen Gesicht und Namen er kennt zu töten. Er fängt an Verbrecher durch Herzversagen auszulöschen, doch schon bald wird die Polizei auf diese 
+		Tode aufmerksam und ein berümter Dedektiv, welcher sich L nennt, nimmt sich diesen Verbrechen an. '
+		'picture' => '<img src="productpics/deathnotevol1.jpg" border="0">'
 	),
 	9 => array(
 		'name' => 'Black Butler Vol. 1',
 		'price' => 45.50,
 		'category' => 'Anime',
-		'description' => 'The latest smartphone from Samsung. Features mind reading to know what you\'re thinking before you think it,
-			and send this information to advertisers to display relevant content of interest to you! Also new is a 3D holoraphic display with
-			motion control, so you can interact with virtual objects in real space.'
+		'description' => 'Ciel Phantomhive ist der ebenso junge wie reiche Erbe des Phantomhive-Imperiums und der "Wachhund" Ihrer Majestät, der 
+		Königin von England. Sein Butler Sebastian steht ihm treu zur Seite, nicht nur indem er Tee kocht und das Anwesen in Schuss hält, vor 
+		allem erweist er sich als überaus talentierter Bodyguard. Als Butler der Phantomhives sollte man so etwas eben können. Und Sebastian ist 
+		im wahrsten Sinne des Wortes ein "teuflisch guter Butler"'
+		'picture' => '<img src="productpics/blackbutlervol1.jpg" border="0">'
 	),
 	10 => array(
 		'name' => 'Sword Art online Vol. 1',
 		'price' => 45.50,
 		'category' => 'Anime',
-		'description' => 'The latest smartphone from Samsung. Features mind reading to know what you\'re thinking before you think it,
-			and send this information to advertisers to display relevant content of interest to you! Also new is a 3D holoraphic display with
-			motion control, so you can interact with virtual objects in real space.'
+		'description' => 'Schüler Kazuto Kirigiya durfte unter seinem Pseudonym „Kirito“ bereits die Beta- Version des Rollenspiels Sword Art Online 
+		testen. Wie viele andere kann er es kaum erwarten, dass das Spiel nun endlich online geht. Das Besondere daran: Dank eines sogenannten 
+		NerveGears kann man vollständig in die mittelalterliche virtuelle Welt namens Aincrad eintauchen. Als einer von 10.000 Spielern streift 
+		Kirito kurz nach dem Start begeistert durch die Welt von Sword Art Online – bis er feststellt, dass er sich nicht mehr ausloggen kann. 
+		Was zunächst aussieht wie ein Bug, entpuppt sich als pure Absicht: Der Entwickler des Spiels verkündet, dass keiner diese virtuelle Welt 
+		verlassen kann, bevor nicht die Endgegner aller 100 Ebenen besiegt sind. Und: Wer im Spiel stirbt, verliert auch in der Realität sein Leben!'
+		'picture' => '<img src="productpics/saovol1.jpg" border="0">'
 	),
 	11 => array(
-		'name' => 'Tokyo Guhl Vol. 1',
+		'name' => 'Tokyo Ghoul Vol. 1',
 		'price' => 30.00,
 		'category' => 'Anime',
-		'description' => 'The latest smartphone from Samsung. Features mind reading to know what you\'re thinking before you think it,
-			and send this information to advertisers to display relevant content of interest to you! Also new is a 3D holoraphic display with
-			motion control, so you can interact with virtual objects in real space.'
+		'description' => 'Mitten in Japans Hauptstadt Tokyo leben sie: Ghule, die sich von Menschen ernähren. Das muss auch der 18-jährige 
+		Bücherwurm Ken am eigenen Leib erfahren, als ihm sein Schwarm Liz bei einem Date die köstlichen Innereien aus dem Leib reissen will. 
+		Der Schwerverletzte erwacht kurz darauf im Krankenhaus - und erfährt, dass ihm die Organe seiner Angreiferin transplantiert wurden. 
+		Schnell stellt er fest, dass mit ihm irgendetwas nicht stimmt: Normales Essen riecht und schmeckt verdorben, nichts, was er zu sich nimmt, 
+		kann er verdauen. Dafür bekommt er bei Hunger ein rotes Auge und entwickelt, sehr zu seinem Verdruss, Appetit auf Menschenfleisch - selbst 
+		auf seinen besten Freund Hide. Ob Ken will oder nicht, seine Entwicklung zum Ghul schreitet unaufhaltsam voran ....'
+		'picture' => '<img src="productpics/tokyoghoulvol1.jpg" border="0">'
 	),
 	12 => array(
 		'name' => 'Attack on Titan Vol. 1',
 		'price' => 45.00,
 		'category' => 'Anime',
-		'description' => 'The latest smartphone from Samsung. Features mind reading to know what you\'re thinking before you think it,
-			and send this information to advertisers to display relevant content of interest to you! Also new is a 3D holoraphic display with
-			motion control, so you can interact with virtual objects in real space.'
+		'description' => 'In „Attack on Titan“ wurde die Menschheit von einer riesigen Bedrohung in die Enge gedrängt und lebt nun eingeschlossen 
+		von drei großen Mauern in einem verhältnismäßig kleinen Königreich. Riesig im wahrsten Sinne des Wortes übrigens, denn bei besagter 
+		Bedrohung handelt es sich um Titanen, die in der Regel 3 bis 15 Meter groß werden. Seit über 100 Jahren lebten die Menschen in Frieden, 
+		die Titanen wurden erfolgreich von der Mauer ferngehalten. Bis eines Tages....'
+		'picture' => '<img src="productpics/attackontitanvol1.jpg" border="0">'
 	),
 	12=> array(
 		'name' => 'Akame Ga Kill Vol. 1',
 		'price' => 55.50,
 		'category' => 'Anime',
-		'description' => 'The latest smartphone from Samsung. Features mind reading to know what you\'re thinking before you think it,
-			and send this information to advertisers to display relevant content of interest to you! Also new is a 3D holoraphic display with
-			motion control, so you can interact with virtual objects in real space.'
+		'description' => 'Tatsumi ist ein Kämpfer, der sich auf Wanderschaft begibt, um Geld für sein, von Armut gebeuteltes Dorf zu verdienen. 
+		Nachdem er von einer geheimnisvollen Frau überfallen und ausgeraubt wurde, lösen sich seine Träume schnell in Rauch auf. Er kommt bei 
+		der noblen Aristokratin Aria unter und trifft kurz darauf auf eine Gruppe von Assassinen, die sich Night Raid nennt. Als Tatsumi eine 
+		schreckliche Entdeckung macht, schliesst er sich dieser Gruppe und ihrem blutigen Kampf gegen das Imperium an.'
+		'picture' => '<img src="productpics/akamegakillvol1.jpg" border="0">'
 	),
 	14 => array(
 		'name' => 'One Piece Neckless',
 		'price' => 25.00,
 		'category' => 'Merchandise',
 		'description' => 'eine Halskette mit dem Jolly Roger der Strohutpiraten aus One Piece'
+		'picture' => '<img src="productpics/opneckless.jpg" border="0">'
 	),
 	15 => array(
 		'name' => 'Attack on Titan - Levi - Figur',
@@ -134,6 +163,7 @@ $products = array(
 		'category' => 'Merchandise',
 		'description' => 'Zum Anime ´Attack on Titan´ kommt diese detailreiche PVC Statue von Levi Rivaille im Maßstab 1:8. 
 		Sie ist ca. 20 cm gross und wird mit Base in einer Fensterbox geliefert.'
+		'picture' => '<img src="productpics/attackontitanlevifigur.jpg" border="0">'
 	),
 	16 => array(
 		'name' => 'Black Butler: Book of Circus - Ciel Phantomhive - Figur',
@@ -142,6 +172,7 @@ $products = array(
 		'description' => 'Aus der ´ARTFXJ´ Reihe von Kotobukiya kommt diese aufregende Statue von Ciel Phantomhive aus der Anime-Serie ´Black Butler: Book of Circus´. Die detailreiche PVC Statue im Massstab 1/8 ist ca. 18 cm gross und wird in einer Fensterbox geliefert.
 
 		Die Statue muss in wenigen, einfachen Schritten zusammengesteckt werden.'
+		'picture' => '<img src="productpics/blackbutlerbookofcircuscielphantomhivefigur.jpg" border="0">'
 	),
 );
 ?>
