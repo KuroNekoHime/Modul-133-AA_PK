@@ -1,0 +1,25 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #BF4C1C;
+	
+
+}
+
+a, a:visited {
+
+	color:#801000;
+
+	font-weight:bold;
+
+}
+
+a:hover {
+
+	color:#E0D099;
+
+}
+
+#content{
+	text-align: center;
+}
