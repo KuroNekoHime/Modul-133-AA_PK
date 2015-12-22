@@ -173,6 +173,6 @@ $products = array(
 
 		Die Statue muss in wenigen, einfachen Schritten zusammengesteckt werden.'
 		'picture' => '<img src="productpics/blackbutlerbookofcircuscielphantomhivefigur.jpg" border="0">'
-	),
+	)
 );
 ?>
