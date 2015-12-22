@@ -1,11 +1,6 @@
 <?php
 session_start();
 
-/*
-File:		index.php
-Author:		Levi Meahan
-Purpose:	View products
-*/
 
 require("products.php");
 require("layout.php");
