@@ -1,0 +1,4 @@
+muster:max
+mueller:passwort
+kuroneko:rooter
+akuma:king
